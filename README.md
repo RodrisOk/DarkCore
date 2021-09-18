@@ -1,0 +1,2 @@
+# DarkCore
+Diseño Personalizado Discord
